@@ -1,0 +1,28 @@
+body {
+	background:#999;
+	font-family: sans-serif;
+}
+
+h1, h2, li{
+	color: #555;
+}
+
+a {
+	color: green;
+}
+
+p {
+	background: #666;
+	color: white;
+	padding: 10px; /*all, topbottom leftright, top right bottom left*/ 
+}
+
+.secondary {
+	background: none;
+	color: #777;
+}
+
+#special {					/*only 1 ID per page*/
+	background: red;
+	color: white;
+}
